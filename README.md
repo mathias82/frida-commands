@@ -2,6 +2,10 @@
 
 The script contains some frida commands, such as finding and saving the classes of a package to a document, as well as finding the methods of a class and saving it to the output-fridaTxt folder 
 
+# Prerequisite
+
+In the emulator, you should have installed and run the frida server first.
+
 # Instructions
 
 ```
