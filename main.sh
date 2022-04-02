@@ -1,5 +1,5 @@
 #!/bin/bash
-# Automated frida commands
+# Automate frida commands
 # Copyright (C) 2022 mstavrou
 # Last revised 01/04/2022
 
