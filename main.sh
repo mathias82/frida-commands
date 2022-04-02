@@ -1,7 +1,7 @@
 #!/bin/bash
-# Basic adb commands for install apk and uninstall apk
+# Automated frida commands
 # Copyright (C) 2022 mstavrou
-# Last revised 09/03/2022
+# Last revised 01/04/2022
 
 clear
 
