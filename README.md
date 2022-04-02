@@ -20,7 +20,11 @@ Upon exiting frida, all classes or properties for a package will be stored in th
 
 <img width="700" alt="menu" src="https://user-images.githubusercontent.com/4541512/161402511-e2167bfe-edd8-4ff3-b0d4-98db91d06983.png">
 
+You will see all the installed packages from the emulator and you should choose the package in order to see all the classes.
+
 <img width="700" alt="package" src="https://user-images.githubusercontent.com/4541512/161402513-814f87de-5b44-4b6f-8530-ff1f004071cb.png">
+
+You are inside frida terminal, you shoud enter %resume to see all the classes, after you enter exit the classes will be store in a file inside the folder output-fridaTxt.
 
 <img width="700" alt="package" src="https://user-images.githubusercontent.com/4541512/161402645-163b100a-bd21-4cec-8d90-fc5379ac3644.png">
 
