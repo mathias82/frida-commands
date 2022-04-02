@@ -12,9 +12,9 @@ Two folders are created by the shell script: one for the javascript code, the ot
 Upon exiting frida, all classes or properties for a package will be stored in the output-fridaTxt folder. After that you can search from the application if the specific class or method you are looking for exist.
 
 ```
-1) Rename the frida server to 'fridaServer' ex. /data/local/tmp/fridaServer
-2) Run the command: chmod +x menu.sh
-3) Finally run: ./menu 
+1) Start frida server
+2) Run the command: chmod +x main.sh
+3) Finally run: ./main 
 
 ```
 
