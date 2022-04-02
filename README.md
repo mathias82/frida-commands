@@ -1,5 +1,15 @@
 # frida-commands
 
+The script contains some frida commands, such as finding and saving the classes of a package to a document, as well as finding the methods of a class and saving it to the output-fridaTxt folder 
+
+# Instructions
+
+```
+1) Rename the frida server to 'fridaServer' ex. /data/local/tmp/fridaServer
+2) Run the command: chmod +x menu.sh
+3) Finally run: ./menu 
+
+```
 
 <img width="700" alt="menu" src="https://user-images.githubusercontent.com/4541512/161402511-e2167bfe-edd8-4ff3-b0d4-98db91d06983.png">
 
