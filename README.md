@@ -30,7 +30,7 @@ You are in the frida terminal, you shoud enter %resume to see all the classes, a
 
 <img width="700" alt="classes" src="https://user-images.githubusercontent.com/4541512/161402522-531743d3-8a7d-4965-bc1b-224c4dadcf80.png">
 
-When you click number 2 in the menu to search the class, you should put the name of the package and the name of the class you are looking for and click enter you will see the results.
+When you click number 2 in the menu to search the class, you should put the name of the package and the name of the class you are looking for. After that click enter to see the results.
 
 <img width="700" alt="classes" src="https://user-images.githubusercontent.com/4541512/161403313-4e97c31f-a7f1-4f11-8434-5b462aca3e87.png">
 
