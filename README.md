@@ -24,7 +24,7 @@ You will see all the installed packages from the emulator and you should choose 
 
 <img width="700" alt="package" src="https://user-images.githubusercontent.com/4541512/161402513-814f87de-5b44-4b6f-8530-ff1f004071cb.png">
 
-You are inside frida terminal, you shoud enter %resume to see all the classes, after you enter exit the classes will be store in a file inside the folder output-fridaTxt.
+You are in the frida terminal, you shoud enter %resume to see all the classes, after you enter exit the classes will be store in a file inside the folder output-fridaTxt.
 
 <img width="700" alt="package" src="https://user-images.githubusercontent.com/4541512/161402645-163b100a-bd21-4cec-8d90-fc5379ac3644.png">
 
