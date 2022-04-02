@@ -1,6 +1,6 @@
 # frida-commands
 
-The script contains some frida commands, such as finding and saving the classes of a package to a document, as well as finding the methods of a class and saving it to the output-fridaTxt folder 
+The script contains frida commands, for example such as finding and saving the classes of a package to a document, as well as finding the methods of a class and saving it to the output-fridaTxt folder 
 
 # Prerequisite
 
@@ -9,7 +9,7 @@ In the android emulator, you should have installed and run the frida server firs
 # Instructions
 
 Two folders are created by the shell script: one for the javascript code, the other for the output from the frida server. 
-Upon exiting frida, all classes or properties for a package will be stored in the output-fridaTxt folder. After that you can search from the application if the specific class or method you are looking for exist.
+Upon exiting frida, all classes or properties for a package will be stored in the output-fridaTxt folder. Also the shell script will produce and store the javascript code for the frida inside the js folder. After that you can search from the menu if the specific class or method you are looking for exist.
 
 ```
 1) Start frida server
