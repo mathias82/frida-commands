@@ -29,3 +29,8 @@ You are inside frida terminal, you shoud enter %resume to see all the classes, a
 <img width="700" alt="package" src="https://user-images.githubusercontent.com/4541512/161402645-163b100a-bd21-4cec-8d90-fc5379ac3644.png">
 
 <img width="700" alt="classes" src="https://user-images.githubusercontent.com/4541512/161402522-531743d3-8a7d-4965-bc1b-224c4dadcf80.png">
+
+When you click number 2 in the menu to search the class, you should put the name of the package and the %like for the name of the class you are looking for and you will see the results.
+
+<img width="700" alt="classes" src="https://user-images.githubusercontent.com/4541512/161403313-4e97c31f-a7f1-4f11-8434-5b462aca3e87.png">
+
