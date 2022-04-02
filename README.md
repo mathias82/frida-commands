@@ -8,6 +8,9 @@ In the emulator, you should have installed and run the frida server first.
 
 # Instructions
 
+Two folders are created by the shell script: one for the javascript code, the other for the output-fridaTxt from the frida server. 
+If you exit frida, all the classes or the properties will be stored in a file inside the output-fridaTxt folder.
+
 ```
 1) Rename the frida server to 'fridaServer' ex. /data/local/tmp/fridaServer
 2) Run the command: chmod +x menu.sh
