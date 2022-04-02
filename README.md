@@ -18,7 +18,7 @@ Upon exiting frida, all classes or properties for a package will be stored in th
 
 ```
 
-<img width="700" alt="menu" src="https://user-images.githubusercontent.com/4541512/161402511-e2167bfe-edd8-4ff3-b0d4-98db91d06983.png">
+<img width="700" alt="CJj3sSTv4ZJpE3H" src="https://user-images.githubusercontent.com/4541512/161403870-35db198f-c458-4331-970f-7bed5672c8c9.png">
 
 You will see all the installed packages from the emulator and you should choose the package in order to see all the classes.
 
