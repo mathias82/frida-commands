@@ -156,8 +156,6 @@ echo ''
 echo '
 if(Java.available){    
 
-//"com.jaotech.manage.yourbp.MyApp"
-
 Java.perform(function() {    
 	var t = Java.use("'${className}'");
     console.log(Object.getOwnPropertyNames(t).join("\n"));
