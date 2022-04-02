@@ -4,7 +4,7 @@ The script contains some frida commands, such as finding and saving the classes 
 
 # Prerequisite
 
-In the emulator, you should have installed and run the frida server first.
+In the android emulator, you should have installed and run the frida server first.
 
 # Instructions
 
