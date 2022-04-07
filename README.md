@@ -1,6 +1,6 @@
 # frida-commands
 
-The script contains frida commands, for example such as finding and saving the classes of a package to a document, as well as finding the methods of a class and saving it to the output-fridaTxt folder . Basically create the javascript documents.
+The script contains frida commands, for example such as finding and saving the classes of a package to a document, as well as finding the methods of a class and saving it to the output-fridaTxt folder . Basically creates the javascript documents.
 
 # Prerequisite
 
